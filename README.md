@@ -1,4 +1,6 @@
-## 👋 Hi there ! I'm Scorpio-su
+![alt text](./images/top.png)
+
+<!-- ## 👋 Hi there ! I'm Scorpio-su -->
 
 ## Languages
 
@@ -43,6 +45,8 @@
 	<a href="https://www.instagram.com/corpiosu_1119/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
     <a href="https://github.com/scorpio-su"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 </p>
+
+![alt text](./images/bottom.png)
 
 <!--
 **scorpio-su/scorpio-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
